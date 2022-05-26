@@ -1,4 +1,4 @@
-# Git and Github
+# Git and Github Course
 
 ## Learn how to use git.
 
